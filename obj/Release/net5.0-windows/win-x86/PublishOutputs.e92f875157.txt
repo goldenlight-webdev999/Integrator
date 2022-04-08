@@ -1,0 +1,3 @@
+F:\__111__journal-download\__Proj__\BookDOIScrapper\BookDOIMerger\bin\Release\net5.0-windows\publish\BookDOIMerger.pdb
+F:\__111__journal-download\__Proj__\BookDOIScrapper\BookDOIMerger\bin\Release\net5.0-windows\publish\General.pdb
+F:\__111__journal-download\__Proj__\BookDOIScrapper\BookDOIMerger\bin\Release\net5.0-windows\publish\BookDOIMerger.exe
